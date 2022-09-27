@@ -8,6 +8,11 @@ The goal of this project is to create a database of the universe using PostgreSQ
 - Visual Studio Code 1.57.1
 - Bash Terminal
 
+## Universe Information
+- https://solarsystem.nasa.gov/
+- https://www.britannica.com/topic/list-of-galaxies-and-galaxy-clusters-2056030
+- https://imagine.gsfc.nasa.gov/science/objects/galaxies1.html#:~:text=Galaxies%20are%20classified%20by%20shape,and%20a%20central%20%22bulge%22.
+
 ## Tables
 
 ### Galaxy Table
