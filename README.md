@@ -6,4 +6,13 @@ The goal of this project is to create a database of the universe using PostgreSQ
 ## Tools/Languages
 - PostgreSQL
 - Visual Studio Code
+- Bash Terminal
+
+## Tables
+
+### Galaxy Table
+### Star Table
+### Planet Table
+### Moon Table
+### Asteroid Table
 
