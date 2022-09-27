@@ -5,7 +5,7 @@ The goal of this project is to create a database of the universe using PostgreSQ
 
 ## Tools/Languages
 - PostgreSQL 12.9
-- Visual Studio Code
+- Visual Studio Code 1.57.1
 - Bash Terminal
 
 ## Tables
